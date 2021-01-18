@@ -36,11 +36,10 @@ commitMessages:
   commitAuthorName: "site-kanshi"
   commitAuthorEmail: "admin@yama2211.me"
 
-# 40 - 86 Line : WebSite
-# 87 - 113 Line : Readme.md
+# 40 - 81 Line : WebSite
+# 82 - 104 Line : Readme.md
 i18n:
   activeIncidents: "有効なインシデント"
-  allSystemsOperational: "すべてのシステムは正常に稼働しています"
   incidentReport: "インシデントレポート #$NUMBER→"
   activeIncidentSummary: "$DATE にオープン 投稿数 $POSTS"
   incidentTitle: "インシデント #$NUMBER の詳細"
@@ -61,11 +60,6 @@ i18n:
   averageResponseTime: "平均応答時間: $TIMEms"
   averageResponseTimeTitle: "平均応答時間"
   sevelDayResponseTime: "7日間の応答時間"
-  responseTimeMs: "応答時間(ミリ秒)"
-  up: "正常"
-  down: "停止"
-  degraded: "低下"
-  ms: "ms"
   loading: "読込中"
   navGitHub: "GitHub"
   footer: "このページは[オープンソース]($ REPO)で、[Upptime](https://upptime.js.org)を利用しています。"
@@ -88,7 +82,6 @@ i18n:
   url: "URL"
   status: "状態"
   history: "履歴"
-  responseTime: "応答時間"
   uptime: "稼働時間"
   up: "🟩 正常"
   degraded: "🟨 低下"
@@ -100,12 +93,10 @@ i18n:
   responseTimeWeek: "7日 応答時間"
   responseTimeMonth: "30日 応答時間"
   responseTimeYear: "1年 応答時間"
-  uptime: "常時稼働時間"
   uptimeDay: "24時間の稼働時間"
   uptimeWeek: "7日間の稼働時間"
   uptimeMonth: "30日の稼働時間"
   uptimeYear: "1年の稼働時間"
-  liveStatus: "現在の状態"
   liveStatusHtmlComment: "<!--live status-->"
   allSystemsOperational: "🟩 すべてのシステムは正常に稼働"
   degradedPerformance: "🟨 パフォーマンスの低下"
