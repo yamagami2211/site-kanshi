@@ -13,9 +13,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  #cname: yamagami2211.github.io
+  cname: status.yama2211.jp
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /site-kanshi
+  #baseUrl: /site-kanshi
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Server Status
   navbar:
