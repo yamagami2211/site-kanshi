@@ -1,0 +1,46 @@
+activeIncidents: 有効なインシデント
+allSystemsOperational: すべてのシステムは正常に稼働しています
+incidentReport: "インシデントレポート #$NUMBER→"
+activeIncidentSummary: $DATE にオープン 投稿数 $POSTS
+incidentTitle: インシデント #$NUMBER の詳細
+incidentDetails: インシデントの詳細
+incidentFixed: 修正
+incidentOngoing: 進行中
+incidentOpenedAt: オープン
+incidentClosedAt: クローズ
+incidentSubscribe: アップデートを購読する
+incidentViewOnGitHub: GitHubで表示
+incidentCommentSummary: 投稿日時$DATE 投稿者 $AUTHOR
+incidentBack: ←すべてのインシデントに戻る
+pastIncidents: 過去のインシデント
+pastIncidentsResolved: $MINUTES 分で解決 投稿数 $POSTS
+liveStatus: 現在の状態
+overallUptime: "全体の稼働率: $UPTIME"
+overallUptimeTitle: 全体の稼働率
+averageResponseTime: "平均応答時間: $TIMEms"
+averageResponseTimeTitle: 平均応答
+sevelDayResponseTime: 7日間の応答時間
+responseTimeMs: 応答時間(ミリ秒)
+up: 正常
+down: 正常
+degraded: Degraded
+ms: ms
+loading: 読込中
+navGitHub: GitHub
+footer: このページは[オープンソース]($ REPO)で、[Upptime](https://upptime.js.org)を利用しています。
+rateLimitExceededTitle: レート制限を超えました
+rateLimitExceededIntro: 1時間に実行できるリクエストの数を超えたため、このWebサイトに再度アクセスする前に待機する必要があります。 または、GitHubパーソナルアクセストークンを追加して、このWebサイトを引き続き使用することもできます。
+rateLimitExceededWhatDoesErrorMean: このエラーはどういう意味ですか？
+rateLimitExceededErrorMeaning: このウェブサイトは、GitHub APIを使用して、ウェブサイトのステータスに関するリアルタイムデータにアクセスします。 デフォルトでは、GitHubは各IPアドレスに1時間あたり60リクエストを許可します。
+rateLimitExceededErrorHowCanFix: どうすれば修正できますか？
+rateLimitExceededErrorFix: さらに1時間待つと、IPアドレスの制限が復元されます。 または、GitHubパーソナルアクセストークンを追加して、1時間あたり5,000件のリクエストを追加することもできます。
+rateLimitExceededGeneratePAT: パーソナルアクセストークンを生成する方法を学ぶ
+rateLimitExceededHasSet: パーソナルアクセストークンセットがあります。
+rateLimitExceededRemoveToken: トークンを削除する
+rateLimitExceededGitHubPAT: GitHubパーソナルアクセストークン
+rateLimitExceededCopyPastePAT: トークンをコピーして貼り付けます
+rateLimitExceededSaveToken: トークンを保存
+errorTitle: エラーが発生しました
+errorIntro: 最新のステータスの詳細を取得しようとしてエラーが発生しました。
+errorText: しばらくしてからもう一度お試しください。
+errorHome: ホームページに移動
