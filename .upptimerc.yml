@@ -100,3 +100,9 @@ i18n:
   degradedPerformance: "🟨 パフォーマンスの低下"
   completeOutage: "🟥 完全な停止"
   partialOutage: "🟧 部分的な停止"
+
+status-page:
+  scripts:
+    - src: https://www.googletagmanager.com/gtag/js?id=G-S1PK5VCFKZ
+      async: true
+  js: "window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-S1PK5VCFKZ');"
