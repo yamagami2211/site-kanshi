@@ -19,8 +19,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Server Status
   navbar:
-    - title: Status
-      href: /site-kanshi/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Site
@@ -60,7 +58,7 @@ i18n:
   sevelDayResponseTime: "7日間の応答時間"
   loading: "読込中"
   navGitHub: "GitHub"
-  footer: "このページは[オープンソース]($ REPO)で、[Upptime](https://upptime.js.org)を利用しています。"
+  footer: "このページは[オープンソース]($REPO)で、[Upptime](https://upptime.js.org)を利用しています。"
   rateLimitExceededTitle: "レート制限を超えました"
   rateLimitExceededIntro: "1時間に実行できるリクエストの数を超えたため、このWebサイトに再度アクセスする前に待機する必要があります。 または、GitHubパーソナルアクセストークンを追加して、このWebサイトを引き続き使用することもできます。"
   rateLimitExceededWhatDoesErrorMean: "このエラーはどういう意味ですか？"
@@ -100,9 +98,3 @@ i18n:
   degradedPerformance: "🟨 パフォーマンスの低下"
   completeOutage: "🟥 完全な停止"
   partialOutage: "🟧 部分的な停止"
-
-status-page:
-  scripts:
-    - src: https://www.googletagmanager.com/gtag/js?id=G-S1PK5VCFKZ
-      async: true
-  js: "window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-S1PK5VCFKZ');"
