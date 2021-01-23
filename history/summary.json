@@ -40,19 +40,19 @@
     "url": "http://sv03-vps.yama2211.jp",
     "icon": "https://favicons.githubusercontent.com/sv03-vps.yama2211.jp",
     "slug": "sv-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 377,
-    "timeWeek": 422,
-    "timeMonth": 422,
-    "timeYear": 422,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 420,
+    "timeDay": 385,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-01-23": 0
+      "2021-01-23": 7
     }
   }
 ]
