@@ -17,6 +17,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /site-kanshi
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  introMessage: サーバのグラフは[こちらのページ](https://yama2211.jp/sv_status/)の方が正確です。応答時間などは参考程度に御覧ください。
   name: Server Status
   navbar:
     - title: GitHub
