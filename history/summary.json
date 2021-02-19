@@ -4,7 +4,7 @@
     "url": "http://sv01-vps.yama2211.jp",
     "icon": "https://favicons.githubusercontent.com/sv01-vps.yama2211.jp",
     "slug": "sv-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 472,
     "timeMonth": 436,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 0
+    }
   },
   {
     "name": "SV2",
