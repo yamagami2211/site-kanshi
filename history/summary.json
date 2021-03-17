@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/sv01-vps.yama2211.jp",
     "slug": "sv-1",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 433,
-    "timeDay": 451,
-    "timeWeek": 422,
-    "timeMonth": 439,
-    "timeYear": 433,
+    "uptimeYear": "99.99%",
+    "time": 432,
+    "timeDay": 373,
+    "timeWeek": 417,
+    "timeMonth": 436,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2021-02-19": 13
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 409,
-    "timeWeek": 408,
+    "timeDay": 373,
+    "timeWeek": 406,
     "timeMonth": 419,
     "timeYear": 427,
     "dailyMinutesDown": {}
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 411,
-    "timeDay": 448,
-    "timeWeek": 408,
-    "timeMonth": 404,
+    "timeDay": 399,
+    "timeWeek": 412,
+    "timeMonth": 405,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2021-01-23": 7
