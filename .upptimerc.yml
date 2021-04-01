@@ -10,6 +10,8 @@ sites:
     url: http://sv02-vps.yama2211.jp
   - name: SV3
     url: http://sv03-vps.yama2211.jp
+  - name: Redmine
+    url: $REDMINE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
