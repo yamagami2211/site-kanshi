@@ -61,13 +61,13 @@ i18n:
   sevelDayResponseTime: "7日間の応答時間"
   loading: "読込中"
   navGitHub: "GitHub"
-  footer: "このページは[オープンソース]($REPO)で、[Upptime](https://upptime.js.org)を利用しています。"
+  footer: "このページは[オープンソース]($REPO)で、[Upptime](https://upptime.js.org)を利用して  います。"
   rateLimitExceededTitle: "レート制限を超えました"
-  rateLimitExceededIntro: "1時間に実行できるリクエストの数を超えたため、このWebサイトに再度アクセスする前に待機する必要があります。 または、GitHubパーソナルアクセストークンを追加して、このWebサイトを引き続き使用することもできます。"
+  rateLimitExceededIntro: "1時間に実行できるリクエストの数を超えたため、このWebサイトに再度ア  クセスする前に待機する必要があります。 または、GitHubパーソナルアクセストークンを追加して、こ  のWebサイトを引き続き使用することもできます。"
   rateLimitExceededWhatDoesErrorMean: "このエラーはどういう意味ですか？"
-  rateLimitExceededErrorMeaning: "このウェブサイトは、GitHub APIを使用して、ウェブサイトのステータスに関するリアルタイムデータにアクセスします。 デフォルトでは、GitHubは各IPアドレスに1時間あたり60リクエストを許可します。"
+  rateLimitExceededErrorMeaning: "このウェブサイトは、GitHub APIを使用して、ウェブサイトのステ  ータスに関するリアルタイムデータにアクセスします。 デフォルトでは、GitHubは各IPアドレスに1時  間あたり60リクエストを許可します。"
   rateLimitExceededErrorHowCanFix: "どうすれば修正できますか？"
-  rateLimitExceededErrorFix: "さらに1時間待つと、IPアドレスの制限が復元されます。 または、GitHubパーソナルアクセストークンを追加して、1時間あたり5,000件のリクエストを追加することもできます"
+  rateLimitExceededErrorFix: "さらに1時間待つと、IPアドレスの制限が復元されます。 または、  GitHubパーソナルアクセストークンを追加して、1時間あたり5,000件のリクエストを追加することもで  きます"
   rateLimitExceededGeneratePAT: "パーソナルアクセストークンを生成する方法を学ぶ"
   rateLimitExceededHasSet: "パーソナルアクセストークンセットがあります。"
   rateLimitExceededRemoveToken: "トークンを削除する"
@@ -78,6 +78,16 @@ i18n:
   errorIntro: "最新のステータスの詳細を取得しようとしてエラーが発生しました。"
   errorText: "しばらくしてからもう一度お試しください。"
   errorHome: "ホームページに移動"
+  pastScheduledMaintenance: 過去の定期メンテナンス
+  scheduledMaintenance: 定期メンテナンス
+  scheduledMaintenanceSummaryStarted: $DATA $DURATION分間
+  scheduledMaintenanceSummaryStarts: $DATA $DURATION分
+  startedAt: 開始日
+  startsAt: に始まる
+  duration: 期限
+  durationMin: $DURATION 分
+  incidentCompleted: 完了
+  incidentScheduled: 予定
   url: "URL"
   status: "状態"
   history: "履歴"
