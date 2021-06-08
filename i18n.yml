@@ -38,6 +38,16 @@ errorTitle: "エラーが発生しました"
 errorIntro: "最新のステータスの詳細を取得しようとしてエラーが発生しました。"
 errorText: "しばらくしてからもう一度お試しください。"
 errorHome: "ホームページに移動"
+pastScheduledMaintenance: 過去の定期メンテナンス
+scheduledMaintenance: 定期メンテナンス
+scheduledMaintenanceSummaryStarted: $DATA $DURATION分間
+scheduledMaintenanceSummaryStarts: $DATA $DURATION分
+startedAt: 開始日
+startsAt: に始まる
+duration: 期限
+durationMin: $DURATION 分
+incidentCompleted: 完了
+incidentScheduled: 予定
 url: "URL"
 status: "状態"
 history: "履歴"
