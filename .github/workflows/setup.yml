@@ -61,4 +61,4 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "site-kanshi"
-          user_email: "admin@yama2211.me"
+          user_email: "site-kanshi@yama2211.jp"
