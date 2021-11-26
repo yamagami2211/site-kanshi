@@ -10,6 +10,8 @@ sites:
     url: http://sv02-vps.yama2211.jp
   - name: SV3
     url: http://sv03-vps.yama2211.jp
+  - name: SV4
+    url: $SV4_DOMAIN
   - name: Redmine
     url: $REDMINE
 
@@ -33,7 +35,7 @@ status-website:
 #CommitUser
 commitMessages:
   commitAuthorName: "site-kanshi"
-  commitAuthorEmail: "admin@yama2211.me"
+  commitAuthorEmail: "site-kanshi@yama2211.jp"
 
 # 40 - 81 Line : WebSite
 # 82 - 104 Line : Readme.md
