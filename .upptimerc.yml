@@ -12,8 +12,6 @@ sites:
     url: http://sv03-vps.yama2211.jp
   - name: SV4
     url: $SV4_DOMAIN
-  - name: Redmine
-    url: $REDMINE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
