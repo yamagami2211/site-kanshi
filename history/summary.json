@@ -46,9 +46,9 @@
     "url": "http://sv03-vps.yama2211.jp",
     "icon": "https://favicons.githubusercontent.com/sv03-vps.yama2211.jp",
     "slug": "sv-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-05-06": 22,
       "2021-08-25": 20
     }
