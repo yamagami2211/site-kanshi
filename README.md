@@ -27,5 +27,5 @@
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [yamagami2211](https://yama2211.biz)
+- Code: [MIT](./LICENSE) © [yamagami2211](https://yama2211.jp)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
