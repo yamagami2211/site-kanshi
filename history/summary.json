@@ -11,9 +11,9 @@
     "uptimeMonth": "99.23%",
     "uptimeYear": "97.14%",
     "time": 366,
-    "timeDay": 326,
-    "timeWeek": 319,
-    "timeMonth": 343,
+    "timeDay": 309,
+    "timeWeek": 296,
+    "timeMonth": 346,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2023-06-27": 335,
@@ -49,8 +49,7 @@
       "2022-12-24": 112,
       "2022-12-17": 86,
       "2022-10-01": 65,
-      "2022-08-18": 107,
-      "2022-07-27": 23
+      "2022-08-18": 107
     }
   },
   {
@@ -59,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv02-vps.yama2211.jp.ico",
     "slug": "sv-2",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "97.14%",
     "time": 352,
-    "timeDay": 334,
+    "timeDay": 395,
     "timeWeek": 288,
-    "timeMonth": 364,
+    "timeMonth": 369,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2023-06-27": 335,
@@ -103,8 +102,7 @@
       "2022-12-24": 112,
       "2022-12-17": 85,
       "2022-10-01": 64,
-      "2022-08-18": 106,
-      "2022-07-27": 23
+      "2022-08-18": 106
     }
   },
   {
@@ -118,10 +116,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.21%",
-    "time": 337,
-    "timeDay": 326,
-    "timeWeek": 316,
-    "timeMonth": 326,
+    "time": 336,
+    "timeDay": 297,
+    "timeWeek": 290,
+    "timeMonth": 325,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-06-01": 177,
@@ -155,8 +153,7 @@
       "2022-12-24": 111,
       "2022-12-17": 85,
       "2022-10-01": 64,
-      "2022-08-18": 106,
-      "2022-07-27": 23
+      "2022-08-18": 106
     }
   },
   {
@@ -171,9 +168,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.21%",
     "time": 326,
-    "timeDay": 330,
-    "timeWeek": 322,
-    "timeMonth": 321,
+    "timeDay": 296,
+    "timeWeek": 310,
+    "timeMonth": 323,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2023-06-01": 177,
@@ -207,8 +204,7 @@
       "2022-12-24": 111,
       "2022-12-17": 84,
       "2022-10-01": 64,
-      "2022-08-18": 105,
-      "2022-07-27": 23
+      "2022-08-18": 105
     }
   }
 ]
