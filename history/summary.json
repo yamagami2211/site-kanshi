@@ -12,8 +12,8 @@
     "uptimeYear": "97.12%",
     "time": 368,
     "timeDay": 391,
-    "timeWeek": 354,
-    "timeMonth": 350,
+    "timeWeek": 352,
+    "timeMonth": 353,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2023-08-09": 264,
@@ -48,8 +48,7 @@
       "2022-12-29": 99,
       "2022-12-25": 280,
       "2022-12-24": 112,
-      "2022-12-17": 86,
-      "2022-10-01": 65
+      "2022-12-17": 86
     }
   },
   {
@@ -58,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv02-vps.yama2211.jp.ico",
     "slug": "sv-2",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.12%",
     "time": 351,
-    "timeDay": 486,
-    "timeWeek": 365,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "timeDay": 272,
+    "timeWeek": 333,
+    "timeMonth": 352,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2023-08-09": 239,
       "2023-06-27": 335,
@@ -101,8 +100,7 @@
       "2022-12-29": 99,
       "2022-12-25": 280,
       "2022-12-24": 112,
-      "2022-12-17": 85,
-      "2022-10-01": 64
+      "2022-12-17": 85
     }
   },
   {
@@ -117,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.19%",
     "time": 339,
-    "timeDay": 486,
-    "timeWeek": 339,
-    "timeMonth": 355,
-    "timeYear": 342,
+    "timeDay": 298,
+    "timeWeek": 324,
+    "timeMonth": 356,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-08-09": 263,
       "2023-06-01": 177,
@@ -152,8 +150,7 @@
       "2022-12-29": 98,
       "2022-12-25": 280,
       "2022-12-24": 111,
-      "2022-12-17": 85,
-      "2022-10-01": 64
+      "2022-12-17": 85
     }
   },
   {
@@ -162,18 +159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sv-4",
     "status": "down",
-    "uptime": "93.06%",
+    "uptime": "92.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "87.24%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "86.96%",
     "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-09-30": 58,
+      "2023-10-01": 68,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -241,8 +239,7 @@
       "2022-12-29": 98,
       "2022-12-25": 280,
       "2022-12-24": 111,
-      "2022-12-17": 84,
-      "2022-10-01": 64
+      "2022-12-17": 84
     }
   }
 ]
