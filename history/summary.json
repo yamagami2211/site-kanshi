@@ -4,7 +4,7 @@
     "url": "http://sv02-vps.yama2211.jp",
     "icon": "https://icons.duckduckgo.com/ip3/sv02-vps.yama2211.jp.ico",
     "slug": "sv-2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 493,
     "timeYear": 369,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-12-10": 821,
       "2023-12-09": 112,
       "2023-12-01": 20,
