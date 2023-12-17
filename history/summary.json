@@ -6,14 +6,14 @@
     "slug": "sv-2",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "83.99%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "85.77%",
     "uptimeMonth": "91.70%",
     "uptimeYear": "94.42%",
     "time": 362,
-    "timeDay": 386,
-    "timeWeek": 525,
-    "timeMonth": 494,
+    "timeDay": 333,
+    "timeWeek": 504,
+    "timeMonth": 492,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2023-12-16": 56,
@@ -72,8 +72,7 @@
       "2022-12-30": 253,
       "2022-12-29": 99,
       "2022-12-25": 280,
-      "2022-12-24": 112,
-      "2022-12-17": 85
+      "2022-12-24": 112
     }
   }
 ]
