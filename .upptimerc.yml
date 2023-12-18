@@ -4,8 +4,8 @@ repo: site-kanshi # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: SV2
-    url: http://sv02-vps.yama2211.jp
+  - name: V3
+    url: $SERVERV3
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
