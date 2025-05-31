@@ -4,8 +4,8 @@
     "url": "$SERVERV3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v3",
-    "status": "up",
-    "uptime": "66.51%",
+    "status": "down",
+    "uptime": "66.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "74.66%",
     "uptimeMonth": "50.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 667,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-05-26": 212,
       "2025-05-25": 1440,
       "2025-05-24": 902,
